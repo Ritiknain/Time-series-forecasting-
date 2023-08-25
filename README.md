@@ -25,6 +25,7 @@ This project delves into predictive analysis for energy consumption in smart hom
 - Pandas
 - Scikit-learn
 - Matplotlib (for data visualization)
+- Seaborn
 - Jupyter Notebook
 
 ## Dataset
